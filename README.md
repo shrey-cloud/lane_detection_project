@@ -1,1 +1,1 @@
-# lane_detection_project
+# lane_detection_cv_project
